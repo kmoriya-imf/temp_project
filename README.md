@@ -1,4 +1,4 @@
 # temp_project
 Temporary project
 
-![alt text](https://www.imf.org/external/15/images/header/imf_seal.png)
+![alt text](https://raw.githubusercontent.com/kmoriya-imf/temp_project/master/EN-logo_large_blue.png)
